@@ -1,3 +1,10 @@
+# Demo
+
+
+https://github.com/user-attachments/assets/c0435dd0-5260-4479-82e9-20863e9c5a51
+
+
+
 # AI Code Autocomplete System - Technical Documentation
 
 ## Table of Contents
